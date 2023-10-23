@@ -7,7 +7,7 @@ require (
 	github.com/Workiva/go-datastructures v1.1.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/goccy/go-json v0.10.2
-	github.com/mymmrac/telego v0.25.1
+	github.com/mymmrac/telego v0.27.0
 	github.com/nicksnyder/go-i18n/v2 v2.2.1
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pelletier/go-toml/v2 v2.0.9
@@ -27,7 +27,7 @@ require (
 	github.com/bytedance/sonic v1.9.2 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
-	github.com/fasthttp/router v1.4.19 // indirect
+	github.com/fasthttp/router v1.4.21 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
@@ -77,7 +77,7 @@ require (
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.48.0 // indirect
+	github.com/valyala/fasthttp v1.50.0 // indirect
 	github.com/xtls/reality v0.0.0-20230613075828-e07c3b04b983 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	golang.org/x/arch v0.4.0 // indirect
